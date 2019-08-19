@@ -1,2 +1,2 @@
 # Node-DB-Connections
-Connection different dbs with node.js as backend service.
+Connecting different dbs with node.js as backend service.
