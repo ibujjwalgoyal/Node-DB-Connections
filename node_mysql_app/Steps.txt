@@ -1,0 +1,16 @@
+for new project -
+npm init -y
+npm install mysql
+*MUST HAVE MYSQL INSTALLED IN YOUR SYSTEM.*
+
+run node sample_mysql_node_app.js
+*structure of db is inside the script.*
+
+Structure of mysql used by Ujjwal.
+host:localhost
+user:root
+password:Ujjwal@123
+db:userCred
+tablename:usersDetails
+table structure: name varchar(25), phone_Number int(15)
+
