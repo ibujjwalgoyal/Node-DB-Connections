@@ -1,1 +1,1 @@
-1. npm install install mongodb
+1. npm install mongodb
